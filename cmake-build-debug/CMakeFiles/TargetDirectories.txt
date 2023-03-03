@@ -1,3 +1,4 @@
-D:/school/helpmij/cmake-build-debug/CMakeFiles/helpmij.dir
+D:/school/helpmij/cmake-build-debug/CMakeFiles/main.dir
+D:/school/helpmij/cmake-build-debug/CMakeFiles/oef2.dir
 D:/school/helpmij/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/school/helpmij/cmake-build-debug/CMakeFiles/rebuild_cache.dir

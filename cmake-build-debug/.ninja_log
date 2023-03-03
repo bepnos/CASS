@@ -1,3 +1,13 @@
 # ninja log v5
-1	347	6995622571668310	CMakeFiles/helpmij.dir/main.c.obj	3b942af315692a6f
-349	529	6995622573452736	helpmij.exe	4cfc147f32a3abf7
+2	301	6995632685429723	CMakeFiles/helpmij.dir/assemblyoef/oz2/oef3.c.obj	302f15c8653ed6ed
+2	295	6995642050335530	CMakeFiles/helpmij.dir/main.c.obj	3b942af315692a6f
+20	310	6995636889048048	CMakeFiles/helpmij.dir/Oefenzitting2/oz2/oef3.c.obj	2486ff6d29bc6d8f
+2	284	6995641465405127	CMakeFiles/helpmij.dir/Oefenzitting2/oz2/test.c.obj	9b8668720fc274bd
+295	437	6995642051714392	helpmij.exe	4cfc147f32a3abf7
+315	454	6995643972220958	oef3.exe	b59beecbcb718859
+0	182	6995646470807656	build.ninja	9e17d6f074f56df8
+0	298	6995643099426766	CMakeFiles/main.dir/main.c.obj	a6fa056aec6039a8
+299	438	6995643100777543	main.exe	789facf5563b23db
+2	314	6995643970852916	CMakeFiles/oef3.dir/Oefenzitting2/oz2/oef3.c.obj	c5b615666ba7451e
+0	305	6995646482331208	CMakeFiles/oef2.dir/Oefenzitting2/oz2/oef2.c.obj	930fe8b7e60050b6
+306	477	6995646484019368	oef2.exe	dd34fcd573d4467c
