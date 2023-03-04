@@ -172,6 +172,39 @@ build oef4.exe: C_EXECUTABLE_LINKER__oef4_Debug CMakeFiles/oef4.dir/Oefenzitting
   TARGET_IMPLIB = liboef4.dll.a
   TARGET_PDB = oef4.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target oef5
+
+
+#############################################
+# Order-only phony target for oef5
+
+build cmake_object_order_depends_target_oef5: phony || CMakeFiles/oef5.dir
+
+build CMakeFiles/oef5.dir/Oefenzitting2/oz2/oef56.c.obj: C_COMPILER__oef5_Debug D$:/school/helpmij/Oefenzitting2/oz2/oef56.c || cmake_object_order_depends_target_oef5
+  DEP_FILE = CMakeFiles\oef5.dir\Oefenzitting2\oz2\oef56.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\oef5.dir
+  OBJECT_FILE_DIR = CMakeFiles\oef5.dir\Oefenzitting2\oz2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target oef5
+
+
+#############################################
+# Link the executable oef5.exe
+
+build oef5.exe: C_EXECUTABLE_LINKER__oef5_Debug CMakeFiles/oef5.dir/Oefenzitting2/oz2/oef56.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\oef5.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = oef5.exe
+  TARGET_IMPLIB = liboef5.dll.a
+  TARGET_PDB = oef5.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -206,6 +239,8 @@ build oef3: phony oef3.exe
 
 build oef4: phony oef4.exe
 
+build oef5: phony oef5.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -214,7 +249,7 @@ build oef4: phony oef4.exe
 #############################################
 # Folder: D:/school/helpmij/cmake-build-debug
 
-build all: phony main.exe oef2.exe oef3.exe oef4.exe
+build all: phony main.exe oef2.exe oef3.exe oef4.exe oef5.exe
 
 # =============================================================================
 # Built-in targets
