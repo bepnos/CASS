@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "oef2.exe"
+			"path" : "oef4.exe"
 		},
 		{
-			"path" : "oef2.pdb"
+			"path" : "oef4.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 7,
+				"line" : 9,
 				"parent" : 0
 			}
 		]
@@ -59,7 +59,7 @@
 			]
 		}
 	],
-	"id" : "oef2::@6890427a1f51a3e7e1df",
+	"id" : "oef4::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -79,8 +79,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "oef2",
-	"nameOnDisk" : "oef2.exe",
+	"name" : "oef4",
+	"nameOnDisk" : "oef4.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -101,7 +101,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Oefenzitting2/oz2/oef2.c",
+			"path" : "Oefenzittingen/oz2/oef4.c",
 			"sourceGroupIndex" : 0
 		}
 	],
