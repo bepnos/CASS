@@ -27,5 +27,4 @@ int main(){
     printf("%d \n", test.getal4);
     printf("%d \n", test.getal3);
     return 0;
-
 }
