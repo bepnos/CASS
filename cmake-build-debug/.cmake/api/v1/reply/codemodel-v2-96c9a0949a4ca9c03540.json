@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "helpmij",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-84330fb83354805ab41b.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "oef2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oef2-Debug-d122e20e44e5cbe7a5e1.json",
+					"name" : "oef2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "oef3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oef3-Debug-9ae58b65fa0ae0d3ab73.json",
+					"name" : "oef3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "oef4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oef4-Debug-9883257c2b1172dc39a5.json",
+					"name" : "oef4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "oef5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oef5-Debug-3784b0b2d4bd2f885133.json",
+					"name" : "oef5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/school/helpmij/cmake-build-debug",
+		"source" : "D:/school/helpmij"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
