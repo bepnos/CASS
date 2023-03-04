@@ -5,3 +5,4 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(main main.c)
 add_executable(oef2 Oefenzitting2/oz2/oef2.c)
+add_executable(oef3 Oefenzitting2/oz2/oef3.c)
